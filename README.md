@@ -1,1 +1,2 @@
-# fits-server
+# fits
+Fits

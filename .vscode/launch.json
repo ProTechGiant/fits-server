@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "chrome",
+      "name": "http://classes",
+      "request": "launch",
+      "url": "http://classes"
+    }
+  ]
+}
